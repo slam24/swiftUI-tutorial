@@ -29,6 +29,7 @@
 		88CA0AD5255603A20063DE4D /* chincoteague.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 88CA0AC9255603A20063DE4D /* chincoteague.jpg */; };
 		88CA0AD6255603A20063DE4D /* silversalmoncreek.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 88CA0ACA255603A20063DE4D /* silversalmoncreek.jpg */; };
 		88CA0AD7255603A20063DE4D /* stmarylake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 88CA0ACB255603A20063DE4D /* stmarylake.jpg */; };
+		88CA0ADA255605340063DE4D /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88CA0AD9255605340063DE4D /* LandmarkList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		88CA0AC9255603A20063DE4D /* chincoteague.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = chincoteague.jpg; path = ../../../../../Downloads/BuildingListsAndNavigation/Complete/Landmarks/Landmarks/Resources/chincoteague.jpg; sourceTree = "<group>"; };
 		88CA0ACA255603A20063DE4D /* silversalmoncreek.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = silversalmoncreek.jpg; path = ../../../../../Downloads/BuildingListsAndNavigation/Complete/Landmarks/Landmarks/Resources/silversalmoncreek.jpg; sourceTree = "<group>"; };
 		88CA0ACB255603A20063DE4D /* stmarylake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = stmarylake.jpg; path = ../../../../../Downloads/BuildingListsAndNavigation/Complete/Landmarks/Landmarks/Resources/stmarylake.jpg; sourceTree = "<group>"; };
+		88CA0AD9255605340063DE4D /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				88BA16B8255339A600442DD5 /* Info.plist */,
 				88BA16B5255339A600442DD5 /* Preview Content */,
 				88CA0ABA2555FCA60063DE4D /* LandmarkRow.swift */,
+				88CA0AD9255605340063DE4D /* LandmarkList.swift */,
 			);
 			path = Helloworld;
 			sourceTree = "<group>";
@@ -224,6 +227,7 @@
 				88CA0ABE255600EA0063DE4D /* Data.swift in Sources */,
 				88BA16B22553399D00442DD5 /* ContentView.swift in Sources */,
 				88CA0AA02555F1B00063DE4D /* MapView.swift in Sources */,
+				88CA0ADA255605340063DE4D /* LandmarkList.swift in Sources */,
 				88CA0ABB2555FCA60063DE4D /* LandmarkRow.swift in Sources */,
 				88BA16B02553399D00442DD5 /* HelloworldApp.swift in Sources */,
 				88CA0A9D2555EDDB0063DE4D /* CircleImage.swift in Sources */,
